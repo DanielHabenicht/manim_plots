@@ -2,5 +2,14 @@
 	"image": "manimcommunity/manim",
 	"features": {
 		"ghcr.io/devcontainers/features/git:1": {}
+	},
+	"customizations": {
+		"vscode": {
+			"extensions": [
+				"analytic-signal.preview-mp4",
+				"ms-python.python",
+				"Rickaym.manim-sideview"
+			]
+		}
 	}
 }
